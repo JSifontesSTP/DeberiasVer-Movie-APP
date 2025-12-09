@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jsifontes\\Documents\\U\\DeberiasVer\\MovieApi\\MovieApi.csproj": {}
+    "C:\\Users\\jsifontes\\Documents\\u\\DeberiasVer\\MovieApi\\MovieApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jsifontes\\Documents\\U\\DeberiasVer\\MovieApi\\MovieApi.csproj": {
+    "C:\\Users\\jsifontes\\Documents\\u\\DeberiasVer\\MovieApi\\MovieApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jsifontes\\Documents\\U\\DeberiasVer\\MovieApi\\MovieApi.csproj",
+        "projectUniqueName": "C:\\Users\\jsifontes\\Documents\\u\\DeberiasVer\\MovieApi\\MovieApi.csproj",
         "projectName": "MovieApi",
-        "projectPath": "C:\\Users\\jsifontes\\Documents\\U\\DeberiasVer\\MovieApi\\MovieApi.csproj",
+        "projectPath": "C:\\Users\\jsifontes\\Documents\\u\\DeberiasVer\\MovieApi\\MovieApi.csproj",
         "packagesPath": "C:\\Users\\jsifontes\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jsifontes\\Documents\\U\\DeberiasVer\\MovieApi\\obj\\",
+        "outputPath": "C:\\Users\\jsifontes\\Documents\\u\\DeberiasVer\\MovieApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

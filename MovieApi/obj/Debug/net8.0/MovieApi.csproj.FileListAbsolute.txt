@@ -138,4 +138,3 @@ C:\Users\jsifontes\Documents\u\DeberiasVer\MovieApi\obj\Debug\net8.0\refint\Movi
 C:\Users\jsifontes\Documents\u\DeberiasVer\MovieApi\obj\Debug\net8.0\MovieApi.pdb
 C:\Users\jsifontes\Documents\u\DeberiasVer\MovieApi\obj\Debug\net8.0\MovieApi.genruntimeconfig.cache
 C:\Users\jsifontes\Documents\u\DeberiasVer\MovieApi\obj\Debug\net8.0\ref\MovieApi.dll
-C:\Users\jsifontes\Documents\U\DeberiasVer\MovieApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
